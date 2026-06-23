@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gyeongbokgung-core",
+    "name": "경복궁 핵심 관람 코스",
+    "target": ["휠체어", "유모차", "고령자"],
+    "overallGrade": "B",
+    "duration": "약 60분",
+    "summary": "경복궁의 핵심 공간을 비교적 완만한 동선으로 둘러보는 코스입니다.",
+    "places": [
+      "gyeongbokgung-geunjeongjeon"
+    ],
+    "segments": [
+      "gwanghwamun-to-geunjeongjeon"
+    ],
+    "caution": "일부 박석 노면과 주말 혼잡에 주의해야 합니다."
+  }
+]
